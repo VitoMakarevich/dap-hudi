@@ -1,7 +1,7 @@
 # About
 Components:
 1. Pulsar standalone
-1. Java-based data generator
+1. Java-based data [generator](https://github.com/VitoMakarevich/dap-ingest)
 1. InfluxDB with Graphite endpoint for storing metrics
 1. Grafana for building dashboards
 1. Spark structured streaming job
