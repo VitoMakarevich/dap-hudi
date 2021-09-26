@@ -1,0 +1,7 @@
+.bsp
+.idea
+checkpoint
+json-compacted-output
+project/**/target
+target
+output
