@@ -1,4 +1,4 @@
-#About
+# About
 Components:
 1. Pulsar standalone
 1. Java-based data generator
@@ -33,7 +33,7 @@ Next steps:
    creates metrics, but it uses spark private packages that may be changed. Also, spark supported version is 1.6, so 
    it may not work for future versions.
 
-#Spark-sql useful commands
+# Spark-sql useful commands
 ```sql
 create table cdc using hudi
 options (
